@@ -24,7 +24,7 @@ const skills = [
 
 function Experience() {
   return (
-    <div className='container mb-8 mt-24'>
+    <div className='container mb-8 mt-24' id='experience'>
       <div className='grid grid-cols-1 md:grid-cols-6'>
         <div className='col-span-2'>
           <div className='w-96 object-cover  hidden md:block ml-8' >

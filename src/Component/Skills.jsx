@@ -21,7 +21,7 @@ const skills = [
 
 function Skills() {
     return (
-        <div className='my-6 p-8'>
+        <div className='my-6 p-8' id='skills'>
             <h1 className='text-[4rem] text-[#545fc4] font-bold text-center mb-8'>Skills</h1>
 
             {/* Continuous slider container */}

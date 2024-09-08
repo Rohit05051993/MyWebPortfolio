@@ -9,7 +9,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 function Contact() {
   return (
     <>
-      <div className='px-32 h-[60vh]'>
+      <div className='px-32 h-[60vh]' id='contact'>
         <h1 className='text-[4rem] text-[#545fc4] font-bold ml-16  mb-12 text-center '>Contacts</h1>
         <div className='absolute right-[-70px] top-[488vh] '>
           <img className='w-96 h-96' src={cont} alt={cont} />

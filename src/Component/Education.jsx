@@ -5,7 +5,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 function Education() {
   return (
-    <div className='container'>
+    <div className='container' id='education'>
       <div className='grid grid-cols-1 md:grid-cols-6'>
         <div className='col-span-4'>
 

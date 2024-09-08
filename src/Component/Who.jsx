@@ -3,7 +3,7 @@ import who from '../img/who.svg'
 
 function WhoAmI() {
     return (
-        <div>
+        <div id='about'>
             <div className='grid grid-cols-1  md:grid-cols-2 p-10'>
                 <div className='order-2 md:order-1'>
                     <h1 className='text-center text-[4rem] font-bold text-[#545fc4] mb-5'>Who I am</h1>

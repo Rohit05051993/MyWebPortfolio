@@ -5,7 +5,7 @@ import Education from './Education';
 import Skills from './Skills';
 import Experience from './Experience';
 import Project from './Project';
-import Services from './Services';
+// import Services from './Services';
 import Contact from './Contact';
 
 

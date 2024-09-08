@@ -9,7 +9,7 @@ function Education() {
       <div className='grid grid-cols-1 md:grid-cols-6'>
         <div className='col-span-4'>
 
-          <h1 className='text-4xl text-[#545fc4] font-bold ml-16  mb-8  md:text-start text-center'>Education</h1>
+          <h1 className='text-[4rem] text-[#545fc4] font-bold ml-16  mb-8  md:text-start text-center'>Education</h1>
 
           <div className='md:px-16 px-8 '>
             <div className='bg-[#545fc44d] hover:bg-[#545fc480] p-5 rounded-2xl w-full  h-36 mb-6'>

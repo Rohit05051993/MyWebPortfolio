@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/MyWebPortfolio/static/css/main.88f408bc.css",
-    "main.js": "/MyWebPortfolio/static/js/main.c67df5a5.js",
+    "main.css": "/MyWebPortfolio/static/css/main.5f6a6f1c.css",
+    "main.js": "/MyWebPortfolio/static/js/main.6fe471f7.js",
     "static/js/453.c03496a6.chunk.js": "/MyWebPortfolio/static/js/453.c03496a6.chunk.js",
     "static/media/exp.svg": "/MyWebPortfolio/static/media/exp.159c63880dd86654d5bfac8cf6c03345.svg",
+    "static/media/proj1.svg": "/MyWebPortfolio/static/media/proj1.6b7cacba21ae750d595b640f7e4e96d3.svg",
+    "static/media/proj2.svg": "/MyWebPortfolio/static/media/proj2.8080e26c837a6e972d986688eed1255e.svg",
     "static/media/prof.jpeg": "/MyWebPortfolio/static/media/prof.e54f06144727946989ab.jpeg",
+    "static/media/proj3.svg": "/MyWebPortfolio/static/media/proj3.a3146128c9b6ecbd1ffa523e1f3f734d.svg",
+    "static/media/Contact.svg": "/MyWebPortfolio/static/media/Contact.e1eaa2515ae80474560d0bad23694e02.svg",
     "static/media/who.svg": "/MyWebPortfolio/static/media/who.766e140d8726252ca36b1978ed63e475.svg",
     "static/media/edu.svg": "/MyWebPortfolio/static/media/edu.85730043f665536bf55966e82e57dae6.svg",
     "index.html": "/MyWebPortfolio/index.html",
-    "main.88f408bc.css.map": "/MyWebPortfolio/static/css/main.88f408bc.css.map",
-    "main.c67df5a5.js.map": "/MyWebPortfolio/static/js/main.c67df5a5.js.map",
+    "main.5f6a6f1c.css.map": "/MyWebPortfolio/static/css/main.5f6a6f1c.css.map",
+    "main.6fe471f7.js.map": "/MyWebPortfolio/static/js/main.6fe471f7.js.map",
     "453.c03496a6.chunk.js.map": "/MyWebPortfolio/static/js/453.c03496a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f408bc.css",
-    "static/js/main.c67df5a5.js"
+    "static/css/main.5f6a6f1c.css",
+    "static/js/main.6fe471f7.js"
   ]
 }
